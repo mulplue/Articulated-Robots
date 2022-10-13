@@ -1,2 +1,2 @@
-# Articulated Robots
-# Articulated_Robots git init git add README.md git commit -m first commit git branch -M main git remote add ori
+# Articulated Robot
+双足移动机器人技术及强化实践（关节型机器人）的课程作业记录。
